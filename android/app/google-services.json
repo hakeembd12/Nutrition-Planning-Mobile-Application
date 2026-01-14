@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "58088697154",
+    "project_id": "nutrition-planner-ec06c",
+    "storage_bucket": "nutrition-planner-ec06c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58088697154:android:cdbfd7206efa59707f2cdb",
+        "android_client_info": {
+          "package_name": "com.example.nutritionPlannerApp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc65vMt9PxI4fPIVGX6Dm3jUV6e-ipPuE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
